@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "5c306667-389c-4f8a-aac4-86830caaa3eb",
+    "name": "RobotZane",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cbaa0a8e-33ad-4bb1-b34e-81181e646fe4",
+    "name": "TrillGang",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "16bc0290-9907-4f9b-9d7a-0156638eff18",
+    "name": "ilix",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "64d6e5b3-deea-4060-a333-73fd895193f4",
+    "name": "LRB_06",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e0398743-497b-48d0-b192-f559fb485959",
+    "name": "vi_3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6dbb75d6-2139-4c3a-a564-84f36bb53f94",
+    "name": "DexterBoS",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "615704a4-4f3a-412f-9381-c71492e83e67",
+    "name": "Villstare123",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

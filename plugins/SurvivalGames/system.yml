@@ -1,0 +1,77 @@
+version: 0
+sg-system:
+  lobby:
+    sign:
+      set: true
+    signno: 5
+    signs:
+      '1':
+        id: 1
+        world: surv
+        x1: 240
+        y1: 85
+        z1: -93
+        x2: 237
+        y2: 85
+        z2: -93
+      '2':
+        id: 1
+        world: surv
+        x1: 241
+        y1: 85
+        z1: -93
+        x2: 237
+        y2: 85
+        z2: -93
+      '3':
+        id: 1
+        world: surv
+        x1: 241
+        y1: 85
+        z1: -93
+        x2: 237
+        y2: 83
+        z2: -93
+      '4':
+        id: 1
+        world: surv
+        x1: 242
+        y1: 85
+        z1: -92
+        x2: 238
+        y2: 83
+        z2: -92
+      '5':
+        id: 2
+        world: surv
+        x1: 242
+        y1: 84
+        z1: -92
+        x2: 238
+        y2: 84
+        z2: -92
+    spawn:
+      world: surv
+      x: 250
+      y: 80
+      z: -85
+  arenano: 2
+  arenas:
+    '1':
+      world: surv
+      x1: 151
+      y1: 255
+      z1: 129
+      x2: -206
+      y2: 65
+      z2: -59
+      enabled: true
+    '2':
+      world: surv
+      x1: 201
+      y1: 139
+      z1: 279
+      x2: 124
+      y2: 66
+      z2: 107
+      enabled: true
